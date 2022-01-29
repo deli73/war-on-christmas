@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "crimmuswar",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "War on Christmas",
+  "description": "Removes christmas from the game. (Disables seasonal chest textures)",
   "authors": [
-    "Me!"
+    "Sunroses"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://sunrose.xyz/",
+    "sources": "https://github.com/deli73/war-on-christmas"
   },
 
-  "license": "CC0-1.0",
+  "license": "BSD-3",
   "icon": "assets/crimmuswar/icon.png",
 
   "environment": "*",
